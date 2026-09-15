@@ -1,8 +1,8 @@
 class Randwallpaper < Formula
   desc "Generate unique, procedural wallpapers using masks, paths, and colourmaps"
   homepage "https://github.com/MichaelWiciak/randwallpaper"
-  url "https://github.com/MichaelWiciak/randwallpaper/archive/refs/tags/v1.1.0.tar.gz"
-  sha256 "634f1a14c8542a26bb31b02e0ba0d18caa7fcdf0ab616b9489e901fb5a27e130"
+  url "https://github.com/MichaelWiciak/randwallpaper/archive/refs/tags/v1.1.1.tar.gz"
+  sha256 "5a45d0d6c18e4f340cd45756c7699f841e97f10b644e90ede2a6a7c26dd0fba0"
   license "MIT"
   head "https://github.com/MichaelWiciak/randwallpaper.git", branch: "main"
 
